@@ -7,9 +7,8 @@ import static android.R.attr.name;
 
 /**
  * Created by Kristine on 08.05.2017.
- * <p>
- * Java class of a Report Card. Class methods check for empty ArrayLists
- * to prevent the app from crashing.
+ *
+ * Java class of a Report Card.
  */
 
 public class ReportCard {
