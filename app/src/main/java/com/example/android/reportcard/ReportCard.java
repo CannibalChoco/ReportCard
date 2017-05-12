@@ -3,7 +3,6 @@ package com.example.android.reportcard;
 import java.util.ArrayList;
 import java.util.List;
 
-import static android.R.attr.name;
 
 /**
  * Created by Kristine on 08.05.2017.
