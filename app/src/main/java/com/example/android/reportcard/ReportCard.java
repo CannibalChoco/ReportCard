@@ -458,6 +458,7 @@ public class ReportCard {
      *
      * @return report card contents
      */
+    @Override
     public String toString() {
         String reportCard =
                 "Literature" + "\n\t\t" +
