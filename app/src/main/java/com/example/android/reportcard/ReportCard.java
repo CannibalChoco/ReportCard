@@ -302,7 +302,7 @@ public class ReportCard {
      */
     public String getFinalMathGrade() {
         if (math.size() == 0) {
-            return "";
+            return "no grades";
         }
 
         int finalGrade = 0;
@@ -317,7 +317,7 @@ public class ReportCard {
 
     public String getFinalLiteratureGrade() {
         if (literature.size() == 0) {
-            return "";
+            return "no grades";
         }
 
         int finalGrade = 0;
@@ -332,7 +332,7 @@ public class ReportCard {
 
     public String getFinalLatvianGrade() {
         if (latvian.size() == 0) {
-            return "";
+            return "no grades";
         }
 
         int finalGrade = 0;
@@ -347,7 +347,7 @@ public class ReportCard {
 
     public String getFinalBiologyGrade() {
         if (biology.size() == 0) {
-            return "";
+            return "no grades";
         }
 
         int finalGrade = 0;
@@ -362,7 +362,7 @@ public class ReportCard {
 
     public String getFinalMusicGrade() {
         if (music.size() == 0) {
-            return "";
+            return "no grades";
         }
 
         int finalGrade = 0;
@@ -377,7 +377,7 @@ public class ReportCard {
 
     public String getFinalEnglishGrade() {
         if (english.size() == 0) {
-            return "";
+            return "no grades";
         }
 
         int finalGrade = 0;
@@ -392,7 +392,7 @@ public class ReportCard {
 
     public String getFinalPhysicsGrade() {
         if (physics.size() == 0) {
-            return "";
+            return "no grades";
         }
 
         int finalGrade = 0;
@@ -407,7 +407,7 @@ public class ReportCard {
 
     public String getFinalChemistryGrade() {
         if (chemistry.size() == 0) {
-            return "";
+            return "no grades";
         }
 
         int finalGrade = 0;
